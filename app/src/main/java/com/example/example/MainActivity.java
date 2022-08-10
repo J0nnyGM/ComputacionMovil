@@ -21,9 +21,7 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
 
-
 public class MainActivity extends AppCompatActivity {
-
 
 
     // Creating EditText.
